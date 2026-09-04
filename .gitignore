@@ -1,0 +1,16 @@
+# ─────────────────────────────────────────
+# 📓 JUPYTER / ANACONDA
+# ─────────────────────────────────────────
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+.virtual_documents/
+**/.virtual_documents/
+.anaconda/
+anaconda_projects/db/
+**/anaconda_projects/
+
+# PROJECT DOCUMENTS
+*.pdf
+*.ppt
+*.pptx
+

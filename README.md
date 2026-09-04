@@ -6,6 +6,7 @@ This project analyzes seasonal agricultural performance using the provided datas
 
 - `Seasonal_Agriculture_Performance_Analysis.ipynb` - analysis notebook
 - `seasonal_agriculture_performance_dataset.csv` - source dataset
+- `Vidhya_Majee___VOIS_Major_Project_PPT_Seasonal_Agriculture_Performance_Analysis.pptx` -PPT 
 
 ## Getting Started
 
